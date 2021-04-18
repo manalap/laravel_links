@@ -1,3 +1,3 @@
 # laravel_links
  
-stores fake URL links with description.
+stores faked and seeded URL links with description.
