@@ -1,3 +1,3 @@
 # laravel_links
-
-can store URL links with description.
+ 
+stores fake URL links with description.
